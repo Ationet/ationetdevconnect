@@ -104,7 +104,7 @@ Diagnostics -> General**.
 After configuring and saving all the aforementioned parameters, the connection
 between the Commander controller and ATIONET’s Loyalty gateway is now enabled.
 
-To see the operation flow go [here]().
+To see the operation flow go [here](Commander_Config_ATIONET_Host.md).
 
 In case of any questions or concerns regarding these procedures, please contact
 [support@ationet.com](mailto:support@ationet.com) for assistance.
