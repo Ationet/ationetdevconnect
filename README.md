@@ -57,7 +57,7 @@
 - [Fiscal API description](AN-Fiscal_API-Spec.md)
 
 ## .NET SDK
-> This documentation details how the SDK for .NET technology should be consumed. This SDK simplifies and reduces complexity for the programmer. It also describes how to install it from nuget.
+> This documentation details how the SDK for .NET technology should be consumed. This SDK simplifies and reduces complexity for the programmer. It also describes how to install it from nuget. 
 - [.NET SDK Reference](AN-SDK-Reference.md)
 
 ## EPS Loyalty Gateway
