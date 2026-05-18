@@ -1,4 +1,4 @@
-# ATIONET EPS Loyalty gateway
+# ATIONET EPS Loyalty Gateway
 
 ## Overview
 <img width="890" height="520" alt="image" src="https://github.com/user-attachments/assets/de840534-ae16-4423-8ba6-995092218e79" />
