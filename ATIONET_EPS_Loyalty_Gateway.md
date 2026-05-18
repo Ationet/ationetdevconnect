@@ -13,6 +13,6 @@ It can also identify the origin of the operation and redirect it to a different 
 
 
 ## Verifone Commander Integration
-- [Commander Configuration (ATIONET Host)]()
-- [Commander Configuration (External Host)]()
-- [Operation Flow]()
+- [Commander Configuration (ATIONET Host)](Commander_Config_ATIONET_Host.md)
+- [Commander Configuration (External Host)](Commander_Config_External_Host.md)
+- [Operation Flow](Commander_Operations.md)
