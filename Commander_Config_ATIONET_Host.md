@@ -1,5 +1,8 @@
 # Commander configuration for Loyalty (ATIONET Host)
 
+<img width="890" height="455" alt="image" src="https://github.com/user-attachments/assets/1f92b853-4add-415e-a170-ed5a1885a786" />
+
+
 When integrated with ATIONET as the Loyalty Host, both Discount and Points communities are supported.
 
 ## Important Prerequisites
@@ -19,7 +22,9 @@ Please make sure to have at hand the list of all fuel products and their corresp
 codes configured in Commander. 
 
 To obtain this information inside the Commander, go to: **Store Operation ->
-Merchandise -> Product Codes**. <br>
+Merchandise -> Product Codes**. The codes should match the ones configured on ATIONET on **Administration -> Fuels**
+
+<br>
 
 <img width="849" height="489" alt="image" src="https://github.com/user-attachments/assets/a81a5662-94bf-4f7a-9a15-58f9c7e6bd55" />
 
@@ -38,7 +43,7 @@ You can choose any PCATS (from 1 to 4) to configure this information.
 
 > **Note:** _Dealer ID and Program name provided in this image is for guidance purposes only._
 
-- **Dealer ID:** Input the **Terminal/Controller Code** provided by the ATIONET team
+- **Dealer ID:** Input the **Terminal/Controller Code** provided by the ATIONET 
 - **IP/Domain Name:** 4.227.34.236
 - **Ports:** 35176 (BETA environment) / 35166 (PROD environment)
 
@@ -106,7 +111,7 @@ Diagnostics -> General**.
 After configuring and saving all the aforementioned parameters, the connection
 between the Commander controller and ATIONET’s Loyalty module is now enabled.
 
-To see the operation flow go [here]().
+To see the operation flow go [here](Commander_Operations.md).
 
 In case of any questions or concerns regarding these procedures, please contact
 [support@ationet.com](mailto:support@ationet.com) for assistance.
