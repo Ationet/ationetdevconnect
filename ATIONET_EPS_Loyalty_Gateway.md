@@ -1,6 +1,7 @@
 # ATIONET EPS Loyalty gateway
 
 ## Overview
+<img width="890" height="520" alt="image" src="https://github.com/user-attachments/assets/de840534-ae16-4423-8ba6-995092218e79" />
 
 **EPS** (Electronic Payment System) is the middleware component that manages communication between the POS and external loyalty host systems.
 
