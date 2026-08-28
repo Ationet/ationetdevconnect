@@ -309,7 +309,7 @@ Program Name: The name of the Host configuration, we recomend use MPPA_PBL
 Merchant ID: 1277
 Store ID: The Site code from Ationet
 
-Adress(IPv4 Format/Domain Name): 137.135.40.113
+Adress(IPv4 Format/Domain Name):  13.86.197.50
 Port: 5560
 Heartbeat Frecuency: 45
 Hearbeat Time Unit: Seconds
